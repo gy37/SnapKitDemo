@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/ConstraintMakerEditable.swift"
+            timestampString = "559633728.793141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "multipliedBy(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnapKitDemo/ViewController.swift"
+            timestampString = "559634095.739881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/ConstraintMaker.swift"
+            timestampString = "559634095.739971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "makeConstraints(item:closure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/ConstraintDescription.swift"
+            timestampString = "559634186.00114"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "constraint"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnapKit.ConstraintDescription.constraint.getter : Swift.Optional&lt;SnapKit.Constraint&gt;"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/ConstraintDescription.swift"
+                  timestampString = "559634186.023662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "143">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;SnapKit.Constraint&gt; in SnapKit.ConstraintDescription.constraint.getter : Swift.Optional&lt;SnapKit.Constraint&gt;"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/ConstraintDescription.swift"
+                  timestampString = "559634186.027426"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnapKit.ConstraintDescription.constraint.setter : Swift.Optional&lt;SnapKit.Constraint&gt;"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/ConstraintDescription.swift"
+                  timestampString = "559634186.032647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/Constraint.swift"
+            timestampString = "559634499.353189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init(from:to:relation:sourceLocation:label:multiplier:constant:priority:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnapKit.Constraint.__allocating_init(from: SnapKit.ConstraintItem, to: SnapKit.ConstraintItem, relation: SnapKit.ConstraintRelation, sourceLocation: (Swift.String, Swift.UInt), label: Swift.Optional&lt;Swift.String&gt;, multiplier: SnapKit.ConstraintMultiplierTarget, constant: SnapKit.ConstraintConstantTarget, priority: SnapKit.ConstraintPriorityTarget) -&gt; SnapKit.Constraint"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/Constraint.swift"
+                  timestampString = "559634499.371967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnapKit.Constraint.init(from: SnapKit.ConstraintItem, to: SnapKit.ConstraintItem, relation: SnapKit.ConstraintRelation, sourceLocation: (Swift.String, Swift.UInt), label: Swift.Optional&lt;Swift.String&gt;, multiplier: SnapKit.ConstraintMultiplierTarget, constant: SnapKit.ConstraintConstantTarget, priority: SnapKit.ConstraintPriorityTarget) -&gt; SnapKit.Constraint"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/Constraint.swift"
+                  timestampString = "559634499.375816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/ConstraintMakerRelatable.swift"
+            timestampString = "559637237.131779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "equalTo(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/ConstraintMakerRelatable.swift"
+            timestampString = "559637244.8481981"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "relatedTo(_:relation:file:line:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/Constraint.swift"
+            timestampString = "559640786.406088"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "activateIfNeeded(updatingExisting:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of SnapKit.Constraint.activateIfNeeded(updatingExisting: Swift.Bool) -&gt; ()"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/Constraint.swift"
+                  timestampString = "559640786.449922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "252"
+                  endingLineNumber = "252"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SnapKit.Constraint.activateIfNeeded(updatingExisting: Swift.Bool) -&gt; ()"
+                  moduleName = "SnapKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smarfid/Desktop/SnapKitDemo/Pods/SnapKit/Source/Constraint.swift"
+                  timestampString = "559640786.453338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/LayoutConstraintItem.swift"
+            timestampString = "559643739.939644"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "add(constraints:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SnapKit/Source/LayoutConstraintItem.swift"
+            timestampString = "559643745.9269429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "constraintsSet"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
